@@ -1,6 +1,7 @@
 package shams;
 import java.io.*;
 import java.util.scanner;
+import java.sql.*;
 
 class Encapsulate
  {
