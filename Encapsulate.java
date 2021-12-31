@@ -1,5 +1,6 @@
 package shams;
 import java.io.*;
+import java.util.scanner;
 
 class Encapsulate
  {
